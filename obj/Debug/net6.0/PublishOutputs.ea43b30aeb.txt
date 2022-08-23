@@ -1,0 +1,5 @@
+/Users/titouanescorneboueu/Documents/c#/bin/Debug/net6.0/publish/c#
+/Users/titouanescorneboueu/Documents/c#/bin/Debug/net6.0/publish/c#.dll
+/Users/titouanescorneboueu/Documents/c#/bin/Debug/net6.0/publish/c#.deps.json
+/Users/titouanescorneboueu/Documents/c#/bin/Debug/net6.0/publish/c#.runtimeconfig.json
+/Users/titouanescorneboueu/Documents/c#/bin/Debug/net6.0/publish/c#.pdb
